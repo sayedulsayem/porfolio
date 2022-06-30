@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>https://sayedulsayem.github.io/portfolio/tags/</link>
+    <link>https://sayedulsayem.github.io/porfolio/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jun 2022 14:57:29 +0600</lastBuildDate><atom:link href="https://sayedulsayem.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jun 2022 14:57:29 +0600</lastBuildDate><atom:link href="https://sayedulsayem.github.io/porfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>untagged</title>
-      <link>https://sayedulsayem.github.io/portfolio/tags/untagged/</link>
+      <link>https://sayedulsayem.github.io/porfolio/tags/untagged/</link>
       <pubDate>Thu, 30 Jun 2022 14:57:29 +0600</pubDate>
       
-      <guid>https://sayedulsayem.github.io/portfolio/tags/untagged/</guid>
+      <guid>https://sayedulsayem.github.io/porfolio/tags/untagged/</guid>
       <description></description>
     </item>
     
