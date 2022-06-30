@@ -1,4 +1,4 @@
-baseURL = 'https://sayedulsayem.github.io/portfolio-sayedulsayem.github.io/'
+baseURL = 'https://sayedulsayem.github.io/portfolio/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hello-friend-ng"
