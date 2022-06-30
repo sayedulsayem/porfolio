@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://sayedulsayem.github.io/portfolio-sayedulsayem.github.io/posts/my-first-post/</loc>
     <lastmod>2022-06-30T14:57:29+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://sayedulsayem.github.io/portfolio-sayedulsayem.github.io/</loc>
     <lastmod>2022-06-30T14:57:29+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://sayedulsayem.github.io/portfolio-sayedulsayem.github.io/posts/</loc>
     <lastmod>2022-06-30T14:57:29+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://sayedulsayem.github.io/portfolio-sayedulsayem.github.io/tags/</loc>
     <lastmod>2022-06-30T14:57:29+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/untagged/</loc>
+    <loc>https://sayedulsayem.github.io/portfolio-sayedulsayem.github.io/tags/untagged/</loc>
     <lastmod>2022-06-30T14:57:29+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://sayedulsayem.github.io/portfolio-sayedulsayem.github.io/categories/</loc>
   </url>
 </urlset>
